@@ -1,0 +1,20 @@
+.checkout{
+    max-width: 4000px;
+}
+
+.checkout__ad{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.checkout__emptytext{
+    font-style: oblique;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.checkout__emptytext2{
+    font-style: oblique;
+    font-size: x-small;
+    font-weight: 300;
+}
